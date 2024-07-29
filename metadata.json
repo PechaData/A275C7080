@@ -1,0 +1,23 @@
+{
+  "id_": "A275C7080",
+  "segments_metadata": {
+    "I443A7658": {
+      "type": "Root_Segment",
+      "relation": "Source",
+      "lang": "Tibetan",
+      "base": "9ea0",
+      "layer": "Root_Segment-d65.json"
+    },
+    "IB087802B": {
+      "type": "Commentary",
+      "relation": "Target",
+      "lang": "Tibetan",
+      "base": "6de4",
+      "layer": "Commentary-8e4.json"
+    }
+  },
+  "source_metadata": {
+    "type": "Root_Commentary",
+    "source": "Thokme-final"
+  }
+}
